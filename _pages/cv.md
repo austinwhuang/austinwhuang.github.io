@@ -35,3 +35,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Talks
+======
+* Division of Radiation Oncology Summer Student Symposium
+  * The University of Texas MD Anderson Cancer Center, Houston, TX
+  * Oral presentation, August 2021
+
+* 62nd Annual National Student Research Forum
+  * The University of Texas Medical Branch, Galveston, TX
+  * Oral presentation, May 2021
