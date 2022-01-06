@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Austin Huang"
-  avatar           : ![] (1612655438228.png)
+  avatar           : ![](1612655438228.png)
   bio              : "Medical Student"
   location         : "Houston, TX"
   employer         :
