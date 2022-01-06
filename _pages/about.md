@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: 
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,8 @@ redirect_from:
 ---
 
 
-![](/zAfk6Yr.gif){: .align-center }
+![](/zAfk6Yr.gif)
+
+Austin Huang
+Baylor College of Medicine
+MD Anderson Cancer Center{: .align-center }
