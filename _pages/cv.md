@@ -15,7 +15,7 @@ Education
 * M.D., Baylor College of Medicine, 2021 - 2025
 * B.S.A., The University of Texas at Austin, 2017 - 2020
 
-Research experience
+Research Experience
 ======
 * The University of Texas MD Anderson Cancer Center
   * April 2021 - present
