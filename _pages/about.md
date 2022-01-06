@@ -8,3 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+<figure>
+<img src="{{site.url}}/images/zAfk6Yr.gif" alt="heartbeat"/>
+</figure>
