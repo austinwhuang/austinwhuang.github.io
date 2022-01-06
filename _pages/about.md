@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-![](/images/posts/zAfk6Yr.gif){: .align-center }
+![](/images/zAfk6Yr.gif){: .align-center }
