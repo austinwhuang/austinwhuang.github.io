@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Austin Huang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Austin Huang"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Austin Huang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Medical Student, Baylor College of Medicine"
   location         : "Houston, TX"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=austin+huang"
   googlescholar    : "https://scholar.google.com/citations?user=mJXtVmoAAAAJ&hl=en"
-  email            :
+  email            : "Austin.Huang@bcm.edu"
   researchgate     : "https://www.researchgate.net/profile/Austin-Huang-7"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
