@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Analyzing the role of research in the radiation oncology match."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-radonc
+date: 2022-01-04
+venue: 'Advances in Radiation Oncology'
+link: 'https://doi.org/10.1016/j.adro.2021.100891'
+citation: '<b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Analyzing the role of research in the radiation oncology match. <i>Advances in Radiation Oncology.</i> https://doi.org/10.1093/plcell/koaa029' (in press)
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+---
+title: "EIN2-directed histone acetylation requires EIN3-mediated positive feedback regulation in response to ethylene."
+collection: publications
+permalink: /publication/2021-ein2
+date: 2020-12-07
+venue: 'The Plant Cell'
+link: 'https://doi.org/10.1093/plcell/koaa029'
+citation: 'Wang, L., Zhang, Z., Zhang, F., Shao, Z., Zhao, B., <b>Huang, A.</b>, Tran, J., Hernandez, F. V., & Qiao, H. (2021). EIN2-directed histone acetylation requires EIN3-mediated positive feedback regulation in response to ethylene. <i>The Plant cell, 33</i>(2), 322–337. https://doi.org/10.1093/plcell/koaa029'
+---
