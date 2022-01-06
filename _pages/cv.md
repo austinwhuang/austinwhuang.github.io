@@ -12,8 +12,10 @@ redirect_from:
 
 Education
 ======
-* M.D., Baylor College of Medicine, 2021 - 2025
-* B.S.A., The University of Texas at Austin, 2017 - 2020
+* Baylor College of Medicine
+  * M.D., 2021 - 2025
+* The University of Texas at Austin
+  * B.S.A. Biology, 2017 - 2020
 
 Research Experience
 ======
