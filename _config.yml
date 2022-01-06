@@ -85,7 +85,7 @@ author:
   bio              : "Medical Student"
   location         : "Houston, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=austin+huang"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=austin+huang&sort=pubdate"
   googlescholar    : "https://scholar.google.com/citations?user=mJXtVmoAAAAJ&hl=en"
   email            : "Austin.Huang@bcm.edu"
   researchgate     : "https://www.researchgate.net/profile/Austin-Huang-7"
