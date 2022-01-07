@@ -19,7 +19,7 @@ Education
 * The University of Texas at Austin
   * B.S.A. Biology, 2017 - 2020
 
-Research Experience
+Positions
 ======
 * The University of Texas MD Anderson Cancer Center
   * April 2021 - present
