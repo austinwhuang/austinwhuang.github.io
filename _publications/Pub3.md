@@ -1,7 +1,7 @@
 ---
 title: "How the NRMP can clarify the match process with one simple change."
 collection: publications
-permalink: 
+permalink: /publication/2022-oped
 date: 
 venue: 
 link: 
