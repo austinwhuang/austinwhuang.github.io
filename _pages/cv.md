@@ -50,7 +50,7 @@ Presentations
 Awards
 ======
 * MillennialEYE Live Scholarship
-  * YoungMD Connect (YMDC)
+  * YoungMD Connect (YMDC), Austin, TX
   * March 2022
 
 * Undergraduate Research Fellowship
