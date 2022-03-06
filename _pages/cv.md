@@ -46,3 +46,13 @@ Presentations
 * 62nd Annual National Student Research Forum
   * The University of Texas Medical Branch, Galveston, TX
   * Oral presentation, May 2021
+
+Awards
+======
+* MillennialEYE Live Scholarship
+  * YoungMD Connect (YMDC)
+  * March 2022
+
+* Undergraduate Research Fellowship
+  * The University of Texas at Austin, Austin, TX
+  * March 2021
