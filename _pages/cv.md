@@ -39,6 +39,10 @@ Publications
   
 Presentations
 ======
+* Henry J.N. Taub & James K. Alexander Medical Student Research Symposium
+  * Baylor College of Medicine, Houston, TX
+  * Poster Presentation, March 2022
+
 * Division of Radiation Oncology Summer Student Symposium
   * The University of Texas MD Anderson Cancer Center, Houston, TX
   * Oral presentation, August 2021
