@@ -68,3 +68,7 @@ Awards
 * Undergraduate Research Fellowship
   * The University of Texas at Austin, Austin, TX
   * March 2021
+
+* Phi Beta Kappa
+  * The University of Texas at Austin, Austin, TX
+  * January 2021
