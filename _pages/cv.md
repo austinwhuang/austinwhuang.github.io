@@ -39,6 +39,14 @@ Publications
   
 Presentations
 ======
+* 2022 Department of Medicine Housestaff Research Symposium
+  * Baylor College of Medicine, Houston, TX
+  * Poster Presentation, April 2022
+
+* Scholars in Otolaryngology Virtual Conference
+  * National Otolaryngology Interest Group
+  * Poster Presentation, April 2022
+
 * Henry J.N. Taub & James K. Alexander Medical Student Research Symposium
   * Baylor College of Medicine, Houston, TX
   * Poster Presentation, March 2022
