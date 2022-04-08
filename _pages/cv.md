@@ -39,15 +39,23 @@ Publications
   
 Presentations
 ======
+* AG Bell Global Listening and Spoken Language Virtual Symposium
+  * Alexander Graham Bell Association for the Deaf and Hard of Hearing
+  * Accepted Poster Presentation, June 2022
+
+* 63rd Annual National Student Research Forum
+  * The University of Texas Medical Branch, Galveston, TX
+  * Accepted Poster Presentation, May 2022
+
 * 2022 Department of Medicine Housestaff Research Symposium
   * Baylor College of Medicine, Houston, TX
   * Poster Presentation, April 2022
 
-* Scholars in Otolaryngology Virtual Conference
+* 1st Annual Scholars in Otolaryngology Virtual Conference
   * National Otolaryngology Interest Group
   * Poster Presentation, April 2022
 
-* Henry J.N. Taub & James K. Alexander Medical Student Research Symposium
+* 22nd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium
   * Baylor College of Medicine, Houston, TX
   * Poster Presentation, March 2022
 
