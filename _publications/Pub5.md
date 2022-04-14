@@ -1,7 +1,7 @@
 ---
 title: "Re: Altmetric analysis of the most-cited 100 articles on the retina published between 2010 and 2020."
 collection: publications
-permalink: /publication/2022-ent
+permalink: /publication/2022-ret
 date: 2022-05-01
 venue: Retina
 link: 
