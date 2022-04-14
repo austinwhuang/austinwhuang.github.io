@@ -47,6 +47,10 @@ Presentations
   * The University of Texas Medical Branch, Galveston, TX
   * Accepted Poster Presentation, May 2022
 
+* 2022 Annual ROECSG Spring Symposium
+  * Radiation Oncology Education Collaborative Study Group, Chicago, IL
+  * Accepted Oral Presentation, May 2022
+
 * 2022 Department of Medicine Housestaff Research Symposium
   * Baylor College of Medicine, Houston, TX
   * Poster Presentation, April 2022
