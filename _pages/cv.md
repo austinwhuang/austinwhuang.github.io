@@ -43,6 +43,10 @@ Presentations
   * Alexander Graham Bell Association for the Deaf and Hard of Hearing
   * Accepted Poster Presentation, June 2022
 
+* Brigham and Women's Hospital Dermatology Symposium
+  * Department of Dermatology, Brigham and Women's Hospital
+  * Accepted Poster Presentation, May 2022
+
 * 63rd Annual National Student Research Forum
   * The University of Texas Medical Branch, Galveston, TX
   * Accepted Poster Presentation, May 2022
