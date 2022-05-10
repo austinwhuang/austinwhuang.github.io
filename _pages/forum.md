@@ -5,4 +5,4 @@ permalink: /forum/
 author_profile: true
 ---
 
-Why would a forum be necessary?
+![WIP](https://i.imgur.com/LnWhWgw.gif)
