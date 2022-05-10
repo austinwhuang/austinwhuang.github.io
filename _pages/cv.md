@@ -39,41 +39,27 @@ Publications
   
 Presentations
 ======
-* AG Bell Global Listening and Spoken Language Virtual Symposium
-  * Alexander Graham Bell Association for the Deaf and Hard of Hearing
-  * Accepted Poster Presentation, June 2022
+* Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of family participation on language development. Accepted poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
 
-* Brigham and Women's Hospital Dermatology Symposium
-  * Department of Dermatology, Brigham and Women's Hospital
-  * Accepted Poster Presentation, May 2022
+* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. An analysis of dermatology matriculants' medical school academic productivity. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-* 63rd Annual National Student Research Forum
-  * The University of Texas Medical Branch, Galveston, TX
-  * Accepted Poster Presentation, May 2022
+* <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S.J. An Altmetric Study on Medical School Research of Dermatology Residents. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-* 2022 Annual ROECSG Spring Symposium
-  * Radiation Oncology Education Collaborative Study Group, Chicago, IL
-  * Accepted Oral Presentation, May 2022
+* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. An analysis of dermatology matriculants' medical school academic productivity. Accepted oral presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
-* 2022 Department of Medicine Housestaff Research Symposium
-  * Baylor College of Medicine, Houston, TX
-  * Poster Presentation, April 2022
+* <b>Huang, A.</b>, Dang, R., Iqbal, A., Nguyen, C., Govindu, S., Tang, O., Somani, A. N., Al-Mohtaseb, Z. Medical student research in the pass/fail step 1 era: An altmetric analysis of ophthalmology matriculants. Accepted poster presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
-* 1st Annual Scholars in Otolaryngology Virtual Conference
-  * National Otolaryngology Interest Group
-  * Poster Presentation, April 2022
+* <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. A novel method to characterize medical school research productivity among radiation oncology residents. Accepted oral presentation at: 2022 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2022.
 
-* 22nd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium
-  * Baylor College of Medicine, Houston, TX
-  * Poster Presentation, March 2022
+* <b>Huang, A.</b>, Tan, M. C. Epidemiology of pediatric antihistamine poisoning from 2011 to 2020. Poster presentation at: 2022 Department of Medicine Housestaff Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> April 2022.
 
-* Division of Radiation Oncology Summer Student Symposium
-  * The University of Texas MD Anderson Cancer Center, Houston, TX
-  * Oral presentation, August 2021
+* <b>Huang, A.</b>, Kirby, R. P., Kim, S., Kirby, C. E., Gallagher, K. K., Al-Mohtaseb, Z. A novel method to quantify research productivity of otolaryngology matriculants. Poster presentation at: 1st Annual Scholars in Otolaryngology Virtual Conference. <i>National Otolaryngology Interest Group.</i> April 2022.
 
-* 62nd Annual National Student Research Forum
-  * The University of Texas Medical Branch, Galveston, TX
-  * Oral presentation, May 2021
+* <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. A bibliometric analysis of ophthalmology resident research productivity in the United States. Poster presentation at: 22nd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2022.
+
+* <b>Huang, A.</b>, Gunther J. R., Lin, L. L. Analyzing the role of research in the radiation oncology match. Oral presentation at: Division of Radiation Oncology Summer Student Symposium. <i>The University of Texas MD Anderson Cancer Center, Houston, TX.</i> August 2021.
+
+* <b>Huang, A.</b>, Lin, L. L. Analyzing the role of research in the radiation oncology match. Poster presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
 
 Awards
 ======
