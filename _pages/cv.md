@@ -59,7 +59,7 @@ Presentations
 
 * <b>Huang, A.</b>, Gunther J. R., Lin, L. L. Analyzing the role of research in the radiation oncology match. Oral presentation at: Division of Radiation Oncology Summer Student Symposium. <i>The University of Texas MD Anderson Cancer Center, Houston, TX.</i> August 2021.
 
-* <b>Huang, A.</b>, Lin, L. L. Analyzing the role of research in the radiation oncology match. Poster presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
+* <b>Huang, A.</b>, Lin, L. L. Analyzing the role of research in the radiation oncology match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
 
 Awards
 ======
