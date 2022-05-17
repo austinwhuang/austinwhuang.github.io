@@ -9,6 +9,8 @@ redirect_from:
 ---
 First year medical student at BCM. Research intern at MD Anderson.
 
+* Corza Medical
+* JMIR Publications
 
 {% include base_path %}
 
@@ -41,11 +43,11 @@ Presentations
 ======
 * Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of family participation on language development. Accepted poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
 
-* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. An analysis of dermatology matriculants' medical school academic productivity. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
+* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An analysis of dermatology matriculants' medical school academic productivity. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-* <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S.J. An Altmetric Study on Medical School Research of Dermatology Residents. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
+* <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. An Altmetric Study on Medical School Research of Dermatology Residents. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. An analysis of dermatology matriculants' medical school academic productivity. Oral presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
+* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An analysis of dermatology matriculants' medical school academic productivity. Oral presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
 * <b>Huang, A.</b>, Dang, R., Iqbal, A., Nguyen, C., Govindu, S., Tang, O., Somani, N. A., Al-Mohtaseb, Z. Medical student research in the pass/fail step 1 era: An altmetric analysis of ophthalmology matriculants. Poster presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
