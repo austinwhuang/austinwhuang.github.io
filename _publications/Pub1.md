@@ -1,5 +1,5 @@
 ---
-title: "EIN2-directed histone acetylation requires EIN3-mediated positive feedback regulation in response to ethylene."
+title: "EIN2-Directed Histone Acetylation Requires EIN3-Mediated Positive Feedback Regulation in Response to Ethylene."
 collection: publications
 permalink: /publication/2021-ein2
 date: 2020-12-07
