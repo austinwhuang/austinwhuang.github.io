@@ -1,5 +1,5 @@
 ---
-title: "Re: Descriptive analysis of United States glaucoma fellowship program directors."
+title: "Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors."
 collection: publications
 permalink: /publication/2022-ogla
 date: 2022-06-02
