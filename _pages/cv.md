@@ -14,6 +14,7 @@ First year medical student at BCM. Research intern at MD Anderson.
 * Corza Medical
 * JMIR Publications
 
+{% include toc %}
 
 Education
 ======
