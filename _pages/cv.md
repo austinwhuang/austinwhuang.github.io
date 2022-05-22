@@ -3,6 +3,7 @@ layout: archive
 title: "About Me"
 permalink: /
 author_profile: true
+toc: true
 redirect_from:
   - /cv
   - /resume
