@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Contact
 ======
 General inquiries: [contact@austinwhuang.com](mailto:contact@austinwhuang.com)
 
