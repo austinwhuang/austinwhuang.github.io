@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+{% include base_path %}
 General inquiries: [contact@austinwhuang.com](mailto:contact@austinwhuang.com)
 
 PRC: [prc@austinwhuang.com](mailto:prc@austinwhuang.com)
