@@ -57,7 +57,7 @@
     float: right !important;
     top: 0;
     right: 0;
-    /*width: $right-sidebar-width-narrow; */
+    /* width: $right-sidebar-width-narrow; */
     margin-right: -1 * $right-sidebar-width-narrow;
     padding-left: 1em;
     padding-top: 1em !important;
@@ -74,7 +74,7 @@
      
 
   @include breakpoint($x-large) {
-    width: $right-sidebar-width;
+  /*  width: $right-sidebar-width; */
     margin-right: -1 * $right-sidebar-width;
   }
 
@@ -86,9 +86,7 @@
     margin-right: 0;
   }
      }
-  @include breakpoint($x-large) {
-    margin-right: 0;
-   }
+
   }
 
 }
