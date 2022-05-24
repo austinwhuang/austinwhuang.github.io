@@ -9,14 +9,14 @@ redirect_from:
 ---
 First year medical student at BCM. Research intern at MD Anderson.
 
-# Education
+Education
 ======
 * Baylor College of Medicine
   * M.D., 2021 - 2025
 * The University of Texas at Austin
   * B.S.A. Biology, 2017 - 2020
 
-# Positions
+Positions
 ======
 * The University of Texas MD Anderson Cancer Center
   * April 2021 - present
@@ -28,13 +28,11 @@ First year medical student at BCM. Research intern at MD Anderson.
   * Department of Molecular Biosciences
   * Supervisor: Dr. Hong Qiao
 
-# Publications
+Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-# Presentations
+Presentations
 ======
 * Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Accepted poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
 
@@ -58,7 +56,7 @@ First year medical student at BCM. Research intern at MD Anderson.
 
 * <b>Huang, A.</b>, Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
 
-# Awards
+Awards
 ======
 * MillennialEYE Live Scholarship
   * YoungMD Connect (YMDC), Austin, TX
@@ -72,7 +70,7 @@ First year medical student at BCM. Research intern at MD Anderson.
   * The University of Texas at Austin, Austin, TX
   * January 2021
 
-# Extramural Activities
+Extramural Activities
 ======
 * Corza Medical, Division of Ophthalmology (consultant)
 * Peer Reviewer
