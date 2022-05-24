@@ -34,7 +34,7 @@ Publications
 
 1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors. <i>Ophthalmology Glaucoma.</i> (accepted)
 
-1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>Int J Radiat Oncol Biol Phys.</i> (accepted)
+1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>Int J Radiat Oncol Biol Phys.</i> (accepted abstract)
 
 1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index. <i>Journal of Surgical Research.</i> (accepted)
 
