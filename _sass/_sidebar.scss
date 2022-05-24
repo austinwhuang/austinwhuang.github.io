@@ -63,6 +63,15 @@
     padding-top: 1em !important;
     z-index: 10;
 
+        &.sticky {
+      @include clearfix();
+      top: 2em;
+      float: right;
+      overflow-y: auto;
+      position: -webkit-sticky;
+      position: sticky;
+    } 
+     
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
