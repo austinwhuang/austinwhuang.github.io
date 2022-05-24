@@ -11,9 +11,6 @@ redirect_from:
 ---
 First year medical student at BCM. Research intern at MD Anderson.
 
-* Corza Medical
-* JMIR Publications
-
 {% include base_path %}
 
 Education
@@ -78,3 +75,10 @@ Awards
 * Phi Beta Kappa
   * The University of Texas at Austin, Austin, TX
   * January 2021
+
+Extramural Activities
+======
+* Corza Medical, Division of Ophthalmology (consultant)
+* Peer Reviewer
+  *  Journal of Medical Internet Research (1)
+  * JMIR Dermatology (2, 1 accepted)
