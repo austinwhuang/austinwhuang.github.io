@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "About Me"
 permalink: /
 author_profile: true
@@ -10,8 +9,6 @@ redirect_from:
   - /resume
 ---
 First year medical student at BCM. Research intern at MD Anderson.
-
-{% include toc.html html=content %}
 
 Education
 ======
