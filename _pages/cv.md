@@ -3,7 +3,6 @@ title: "About Me"
 permalink: /
 author_profile: true
 toc: true
-toc_icon: "gear"
 redirect_from:
   - /cv
   - /resume
