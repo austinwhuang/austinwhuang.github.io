@@ -68,7 +68,7 @@
     width: $right-sidebar-width;
     margin-right: -1 * $right-sidebar-width;
   }
-}
+
 
 .splash .sidebar__right {
   @include breakpoint($large) {
@@ -76,10 +76,10 @@
     float: right;
     margin-right: 0;
   }
-
+     }
   @include breakpoint($x-large) {
     margin-right: 0;
-     
+   }
   }
 
 }
