@@ -4,6 +4,7 @@ title: "About Me"
 permalink: /
 author_profile: true
 toc: true
+toc_label: "On This Page"
 excerpt_separator: <!--more-->
 redirect_from:
   - /cv
