@@ -30,33 +30,51 @@ Positions
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Embargo. <i>JAMA Ophthalmology.</i> (accepted)
+
+1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors. <i>Ophthalmology Glaucoma.</i> (accepted)
+
+1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>Int J Radiat Oncol Biol Phys.</i> (accepted)
+
+1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index. <i>Journal of Surgical Research.</i> (accepted)
+
+1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39201 (preprint)
+
+1. <b>Huang, A.</b>, Kim, S. J. (2022). Retractions in Dermatology Literature between 1982 and 2022. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39021 (preprint)
+
+1. <b>Huang, A.</b>, Weng, C. Y. (2022). Re: Altmetric Analysis of the Most-Cited 100 Articles on the Retina Published between 2010 and 2020 [published online ahead of print, 2022 Apr 8]. <i>Retina.</i> 2022;10.1097/IAE.0000000000003507. https://doi.org/10.1097/IAE.0000000000003507
+
+1. <b>Huang, A.</b> (2022). How the NRMP can Clarify the Match Process with One Simple Change. <i>Doximity.</i> opmed.doximity.com/articles/how-the-nrmp-can-clarify-the-match-process-with-one-simple-change
+
+1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>medRxiv.</i> https://doi.org/10.1101/2022.02.06.22270335 (preprint)
+
+1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Analyzing the Role of Research in the Radiation Oncology Match. <i>Advances in Radiation Oncology, 7</i>(3):100891. https://doi.org/10.1016/j.adro.2021.100891
+
+1. Wang, L., Zhang, Z., Zhang, F., Shao, Z., Zhao, B., <b>Huang, A.</b>, Tran, J., Hernandez, F. V., Qiao, H. (2021). EIN2-Directed Histone Acetylation Requires EIN3-Mediated Positive Feedback Regulation in Response to Ethylene. <i>The Plant Cell, 33</i>(2), 322–337. https://doi.org/10.1093/plcell/koaa029
   
 Presentations
 ======
-* Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Accepted poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
+1. Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Accepted poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
 
-* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
+1. Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-* <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. An Altmetric Study on Medical School Research of Dermatology Residents. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
+1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. An Altmetric Study on Medical School Research of Dermatology Residents. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-* Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Oral presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
+1. Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Oral presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
-* <b>Huang, A.</b>, Dang, R., Iqbal, A., Nguyen, C., Govindu, S., Tang, O., Somani, N. A., Al-Mohtaseb, Z. Medical Student Research in the Pass/Fail Step 1 Era: An Altmetric Analysis of Ophthalmology Matriculants. Poster presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
+1. <b>Huang, A.</b>, Dang, R., Iqbal, A., Nguyen, C., Govindu, S., Tang, O., Somani, N. A., Al-Mohtaseb, Z. Medical Student Research in the Pass/Fail Step 1 Era: An Altmetric Analysis of Ophthalmology Matriculants. Poster presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
-* <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. Oral presentation at: 2022 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2022.
+1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. Oral presentation at: 2022 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2022.
 
-* <b>Huang, A.</b>, Tan, M. C. Epidemiology of Pediatric Antihistamine Poisoning from 2011 to 2020. Poster presentation at: 2022 Department of Medicine Housestaff Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> April 2022.
+1. <b>Huang, A.</b>, Tan, M. C. Epidemiology of Pediatric Antihistamine Poisoning from 2011 to 2020. Poster presentation at: 2022 Department of Medicine Housestaff Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> April 2022.
 
-* <b>Huang, A.</b>, Kirby, R. P., Kim, S., Kirby, C. E., Gallagher, K. K., Al-Mohtaseb, Z. A Novel Method to Quantify Research Productivity of Otolaryngology Matriculants. Poster presentation at: 1st Annual Scholars in Otolaryngology Virtual Conference. <i>National Otolaryngology Interest Group.</i> April 2022.
+1. <b>Huang, A.</b>, Kirby, R. P., Kim, S., Kirby, C. E., Gallagher, K. K., Al-Mohtaseb, Z. A Novel Method to Quantify Research Productivity of Otolaryngology Matriculants. Poster presentation at: 1st Annual Scholars in Otolaryngology Virtual Conference. <i>National Otolaryngology Interest Group.</i> April 2022.
 
-* <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. Poster presentation at: 22nd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2022.
+1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. Poster presentation at: 22nd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2022.
 
-* <b>Huang, A.</b>, Gunther J. R., Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: Division of Radiation Oncology Summer Student Symposium. <i>The University of Texas MD Anderson Cancer Center, Houston, TX.</i> August 2021.
+1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: Division of Radiation Oncology Summer Student Symposium. <i>The University of Texas MD Anderson Cancer Center, Houston, TX.</i> August 2021.
 
-* <b>Huang, A.</b>, Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
+1. <b>Huang, A.</b>, Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
 
 Awards
 ======
