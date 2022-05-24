@@ -10,7 +10,6 @@ redirect_from:
 ---
 First year medical student at BCM. Research intern at MD Anderson.
 
-{% include toc %}
 
 Education
 ======
