@@ -13,6 +13,7 @@ redirect_from:
 First year medical student at BCM. Research intern at MD Anderson.
 
 {% include base_path %}
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
 
 Education
 ======
