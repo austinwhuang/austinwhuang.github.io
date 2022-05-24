@@ -11,8 +11,6 @@ redirect_from:
 ---
 First year medical student at BCM. Research intern at MD Anderson.
 
-{% include base_path %}
-
 {% include toc.html html=content %}
 
 Education
