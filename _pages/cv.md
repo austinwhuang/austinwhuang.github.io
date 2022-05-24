@@ -1,4 +1,5 @@
 ---
+archive: layout
 title: "About Me"
 permalink: /
 author_profile: true
