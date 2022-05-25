@@ -34,8 +34,6 @@ Publications
 
 1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors. <i>Ophthalmology Glaucoma.</i> (accepted)
 
-1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>Int J Radiat Oncol Biol Phys.</i> (accepted abstract)
-
 1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index. <i>Journal of Surgical Research.</i> (accepted)
 
 1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39201 (preprint)
@@ -52,13 +50,21 @@ Publications
 
 1. Wang, L., Zhang, Z., Zhang, F., Shao, Z., Zhao, B., <b>Huang, A.</b>, Tran, J., Hernandez, F. V., Qiao, H. (2021). EIN2-Directed Histone Acetylation Requires EIN3-Mediated Positive Feedback Regulation in Response to Ethylene. <i>The Plant Cell, 33</i>(2), 322–337. https://doi.org/10.1093/plcell/koaa029
   
+Selected Abstracts
+======
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022) Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics.</i> (accepted)
+
+1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>International Journal of Radiation Oncology Biology Physics.</i> (accepted)
+
 Presentations
 ======
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. Accepted poster presentation at: 64th ASTRO Annual Meeting. <i>American Society for Radiation Oncology, San Antonio, TX.</i> October 2022.
+
 1. Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Accepted poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
 
-1. Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
+1. Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
-1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. An Altmetric Study on Medical School Research of Dermatology Residents. Accepted poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
+1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. An Altmetric Study on Medical School Research of Dermatology Residents. Poster presentation at: Brigham and Women's Hospital Dermatology Symposium. <i>Department of Dermatology, Brigham and Women's Hospital.</i> May 2022.
 
 1. Zhu H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S. J. An Analysis of Dermatology Matriculants' Medical School Academic Productivity. Oral presentation at: 63rd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2022.
 
