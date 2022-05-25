@@ -1,7 +1,7 @@
 ---
 title: "Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals."
 collection: publications
-permalink: /publication/2022-radonc3
+permalink: /publication/2022-radonc4
 date: 2022-06-02
 venue: International Journal of Radiation Oncology Biology Physics
 link: 
