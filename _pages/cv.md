@@ -99,6 +99,5 @@ Awards
 Extramural Activities
 ======
 * Corza Medical, Division of Ophthalmology (consultant)
-* Ad Hoc Reviewer
-  * <i>Journal of Medical Internet Research</i> (1)
-  * <i>JMIR Dermatology</i> (2)
+* <i>Journal of Medical Internet Research</i> (ad hoc reviewer, 1)
+* <i>JMIR Dermatology</i> (ad hoc reviewer, 2)
