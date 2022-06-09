@@ -10,7 +10,6 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-  animation-element: slide-left;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -51,7 +50,6 @@
 
 .page__content {
 
-    animation-element: slide-left;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -402,82 +400,3 @@
   text-transform: uppercase;
 }
 
-@media (min-width:481px) {
-  body {
-    overflow-x: hidden;
-  }
-
-  .silex-runtime .animation-element.slide-left {
-    opacity: 0;
-    -moz-transition: all 500ms ease-out;
-    -webkit-transition: all 500ms ease-out;
-    -o-transition: all 500ms ease-out;
-    transition: all 500ms ease-out;
-    -moz-transform: translate3d(-100px, 0px, 0px);
-    -webkit-transform: translate3d(-100px, 0px, 0px);
-    -o-transform: translate(-100px, 0px);
-    -ms-transform: translate(-100px, 0px);
-    transform: translate3d(-100px, 0px, 0px);
-  }
-
-  .silex-runtime .animation-element.slide-right {
-    opacity: 0;
-    -moz-transition: all 500ms ease-out;
-    -webkit-transition: all 500ms ease-out;
-    -o-transition: all 500ms ease-out;
-    transition: all 500ms ease-out;
-    -moz-transform: translate3d(100px, 0px, 0px);
-    -webkit-transform: translate3d(100px, 0px, 0px);
-    -o-transform: translate(100px, 0px);
-    -ms-transform: translate(100px, 0px);
-    transform: translate3d(100px, 0px, 0px);
-  }
-
-  .silex-runtime .animation-element.slide-fade {
-    opacity: 0;
-    -moz-transition: all 800ms ease-out;
-    -webkit-transition: all 800ms ease-out;
-    -o-transition: all 800ms ease-out;
-    transition: all 800ms ease-out;
-  }
-
-  .silex-runtime .animation-element.slide-top1,
-  .silex-runtime .animation-element.slide-top2,
-  .silex-runtime .animation-element.slide-top3 {
-    opacity: 0;
-    -moz-transition: all 800ms ease-out;
-    -webkit-transition: all 800ms ease-out;
-    -o-transition: all 800ms ease-out;
-    transition: all 800ms ease-out;
-    -moz-transform: translate3d(0px, 100px, 0px);
-    -webkit-transform: translate3d(0px, 100px, 0px);
-    -o-transform: translate(0px, 100px);
-    -ms-transform: translate(0px, 100px);
-    transform: translate3d(0px, 100px, 0px);
-  }
-
-  .silex-runtime .animation-element.slide-top2 {
-    -moz-transform: translate3d(0px, 200px, 0px);
-    -webkit-transform: translate3d(0px, 200px, 0px);
-    -o-transform: translate(0px, 200px);
-    -ms-transform: translate(0px, 200px);
-    transform: translate3d(0px, 200px, 0px);
-  }
-
-  .silex-runtime .animation-element.slide-top3 {
-    -moz-transform: translate3d(0px, 300px, 0px);
-    -webkit-transform: translate3d(0px, 300px, 0px);
-    -o-transform: translate(0px, 300px);
-    -ms-transform: translate(0px, 300px);
-    transform: translate3d(0px, 300px, 0px);
-  }
-
-  .silex-runtime .animation-element.in-view {
-    opacity: 1;
-    -moz-transform: translate3d(0px, 0px, 0px);
-    -webkit-transform: translate3d(0px, 0px, 0px);
-    -o-transform: translate(0px, 0px);
-    -ms-transform: translate(0px, 0px);
-    transform: translate3d(0px, 0px, 0px);
-  }
-}
