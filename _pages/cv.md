@@ -32,6 +32,8 @@ Publications
 ======
 1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Embargo. <i>JAMA Ophthalmology.</i> (accepted)
 
+1. <b>Huang, A.</b>, Zhu, D. (2022). Exploring Ophthalmology Content on TikTok. <i>medRxiv.</i> https://doi.org/10.1101/2022.07.07.22277339 (preprint)
+
 1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors [published online ahead of print, 2022 Jul 2]. <i>Ophthalmology Glaucoma.</i> 2022;S2589-4196(22)00086-2. https://doi.org/10.1016/j.ogla.2022.05.005 
 
 1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index [published online ahead of print, 2022 Jun 7]. <i>Journal of Surgical Research.</i> 2022;S0022-4804(22)00220-7. http://doi.org/10.1016/j.jss.2022.02.057
@@ -60,7 +62,7 @@ Presentations
 ======
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. Accepted poster presentation at: 64th ASTRO Annual Meeting. <i>American Society for Radiation Oncology, San Antonio, TX.</i> October 2022.
 
-1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. ASOPRS 53rd Annual Fall Scientific Symposium. <i>American Society of Ophthalmic Plastic and Reconstructive Surgery, Chicago, IL.</i> September 2022.
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Accepted poster presentation at: ASOPRS 53rd Annual Fall Scientific Symposium. <i>American Society of Ophthalmic Plastic and Reconstructive Surgery, Chicago, IL.</i> September 2022.
 
 1. Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
 
