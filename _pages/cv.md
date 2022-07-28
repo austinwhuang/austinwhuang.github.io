@@ -7,7 +7,7 @@ redirect_from:
   - /cv
   - /resume
 ---
-First year medical student at BCM. Research intern at MD Anderson.
+Second year medical student at BCM. Research intern at MD Anderson.
 
 Education
 ======
