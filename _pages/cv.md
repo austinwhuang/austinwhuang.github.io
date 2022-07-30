@@ -106,3 +106,4 @@ Extramural Activities
 * NIH/NCI AIDS Malignancy Consortium, MD Anderson Cancer Center, PI: Elizabeth Chiao, MD (grant consultant)
 * <i>Journal of Medical Internet Research</i> (ad hoc reviewer, 1)
 * <i>JMIR Dermatology</i> (ad hoc reviewer, 2)
+  * Cooper B., Anderson J., Laughter M., Presley C., Albrecht J., Dellavalle R. (2022). Top Skin-of-Color Publications in Dermatology. <i>JMIR Dermatology.</i> 2022;5(2):e37256;10.2196/37256. https://doi.org/10.2196/37256
