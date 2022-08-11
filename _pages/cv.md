@@ -18,18 +18,25 @@ Education
 
 Positions
 ======
+* Baylor College of Medicine
+  * August 2022 - present
+  * Department of Molecular and Human Genetics
+  * Supervisor: Rui Chen, Ph.D.
+
 * The University of Texas MD Anderson Cancer Center
   * April 2021 - present
   * Department of Radiation Oncology
-  * Supervisor: Dr. Lilie L. Lin
+  * Supervisor: Lilie L. Lin, M.D.
 
 * The University of Texas at Austin
   * March 2019 - April 2021
   * Department of Molecular Biosciences
-  * Supervisor: Dr. Hong Qiao
+  * Supervisor: Hong Qiao, Ph.D.
 
 Publications
 ======
+1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Forthcoming. <i>Advances in Radiation Oncology.</i> (accepted)
+
 1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Embargo. <i>JAMA Ophthalmology.</i> (accepted)
 
 1. <b>Huang, A.</b>, Zhu, D. (2022). Exploring Ophthalmology Content on TikTok. <i>medRxiv.</i> https://doi.org/10.1101/2022.07.07.22277339 (preprint)
@@ -103,6 +110,7 @@ Awards
 Extramural Activities
 ======
 * Corza Medical, Division of Ophthalmology (consultant)
+* AI Optics (consultant)
 * NIH/NCI AIDS Malignancy Consortium, MD Anderson Cancer Center, PI: Elizabeth Chiao, MD (grant consultant)
 * <i>Journal of Medical Internet Research</i> (ad hoc reviewer, 1)
 * <i>JMIR Dermatology</i> (ad hoc reviewer, 2)
