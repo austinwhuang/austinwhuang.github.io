@@ -37,7 +37,7 @@ Publications
 ======
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Forthcoming. <i>Advances in Radiation Oncology.</i> (accepted)
 
-1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Embargo. <i>JAMA Ophthalmology.</i> (accepted)
+1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Altmetric Attention Scores in Ophthalmology Journals [published online ahead of print, 2022 Aug 18]. <i>JAMA Ophthalmology.</i> 2022;10.1001/jamaophthalmol.2022.3160. https://doi.org/10.1001/jamaophthalmol.2022.3160
 
 1. <b>Huang, A.</b>, Zhu, D. (2022). Exploring Ophthalmology Content on TikTok. <i>medRxiv.</i> https://doi.org/10.1101/2022.07.07.22277339 (preprint)
 
