@@ -51,14 +51,18 @@ Publications
 
 1. <b>Huang, A.</b>, Weng, C. Y. (2022). Re: Altmetric Analysis of the Most-Cited 100 Articles on the Retina Published between 2010 and 2020. <i>Retina.</i> 2022;10.1097/IAE.0000000000003507. https://doi.org/10.1097/IAE.0000000000003507
 
-1. <b>Huang, A.</b> (2022). How the NRMP can Clarify the Match Process with One Simple Change. <i>Doximity.</i> opmed.doximity.com/articles/how-the-nrmp-can-clarify-the-match-process-with-one-simple-change
-
 1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>medRxiv.</i> https://doi.org/10.1101/2022.02.06.22270335 (preprint)
 
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Analyzing the Role of Research in the Radiation Oncology Match. <i>Advances in Radiation Oncology, 7</i>(3):100891. https://doi.org/10.1016/j.adro.2021.100891
 
 1. Wang, L., Zhang, Z., Zhang, F., Shao, Z., Zhao, B., <b>Huang, A.</b>, Tran, J., Hernandez, F. V., Qiao, H. (2021). EIN2-Directed Histone Acetylation Requires EIN3-Mediated Positive Feedback Regulation in Response to Ethylene. <i>The Plant Cell, 33</i>(2), 322–337. https://doi.org/10.1093/plcell/koaa029
-  
+
+Articles
+======
+1. <b>Huang, A.</b>, Ishihara, R., Pakravan, M., Charoenkijkajorn, C., Davila-Siliezar, P., Laylani, N., Al-Zubidi, N., Lee, A. G. (2022) Sinusitis-induced optic neuropathy. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Sinusitis-induced_optic_neuropathy
+
+1. <b>Huang, A.</b> (2022). How the NRMP can Clarify the Match Process with One Simple Change. <i>Doximity.</i> opmed.doximity.com/articles/how-the-nrmp-can-clarify-the-match-process-with-one-simple-change
+
 Selected Abstracts
 ======
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022) Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics.</i> (accepted)
