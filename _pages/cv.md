@@ -73,6 +73,8 @@ Presentations
 ======
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. Accepted poster presentation at: 64th ASTRO Annual Meeting. <i>American Society for Radiation Oncology, San Antonio, TX.</i> October 2022.
 
+1. <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Bay, C., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: AMA Research Challenge 2022. <i>American Medical Association.</i> October 2022.
+
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Accepted poster presentation at: ASOPRS 53rd Annual Fall Scientific Symposium. <i>American Society of Ophthalmic Plastic and Reconstructive Surgery, Chicago, IL.</i> September 2022.
 
 1. Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Poster presentation at: AG Bell Global Listening and Spoken Language Virtual Symposium. <i>Alexander Graham Bell Association for the Deaf and Hard of Hearing.</i> June 2022.
