@@ -37,6 +37,8 @@ Publications
 ======
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Forthcoming. <i>Advances in Radiation Oncology.</i> (accepted)
 
+1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School: Cross-sectional Study. <i>JMIR Dermatology.</i> http://doi.org/10.2196/39201
+
 1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Altmetric Attention Scores in Ophthalmology Journals [published online ahead of print, 2022 Aug 18]. <i>JAMA Ophthalmology.</i> 2022;10.1001/jamaophthalmol.2022.3160. https://doi.org/10.1001/jamaophthalmol.2022.3160
 
 1. <b>Huang, A.</b>, Zhu, D. (2022). Exploring Ophthalmology Content on TikTok. <i>medRxiv.</i> https://doi.org/10.1101/2022.07.07.22277339 (preprint)
@@ -44,8 +46,6 @@ Publications
 1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors [published online ahead of print, 2022 Jul 2]. <i>Ophthalmology Glaucoma.</i> 2022;S2589-4196(22)00086-2. https://doi.org/10.1016/j.ogla.2022.05.005 
 
 1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index [published online ahead of print, 2022 Jun 7]. <i>Journal of Surgical Research.</i> 2022;S0022-4804(22)00220-7. http://doi.org/10.1016/j.jss.2022.02.057
-
-1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39201 (preprint)
 
 1. <b>Huang, A.</b>, Kim, S. J. (2022). Retractions in Dermatology Literature between 1982 and 2022. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39021 (preprint)
 
