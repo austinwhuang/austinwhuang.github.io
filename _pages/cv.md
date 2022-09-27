@@ -35,6 +35,8 @@ Positions
 
 Publications
 ======
+1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> (accepted) https://doi.org/10.1101/2022.02.06.22270335 (preprint)
+
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Forthcoming. <i>Advances in Radiation Oncology.</i> (accepted)
 
 1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School: Cross-sectional Study. <i>JMIR Dermatology.</i> http://doi.org/10.2196/39201
@@ -50,8 +52,6 @@ Publications
 1. <b>Huang, A.</b>, Kim, S. J. (2022). Retractions in Dermatology Literature between 1982 and 2022. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39021 (preprint)
 
 1. <b>Huang, A.</b>, Weng, C. Y. (2022). Re: Altmetric Analysis of the Most-Cited 100 Articles on the Retina Published between 2010 and 2020. <i>Retina.</i> 2022;10.1097/IAE.0000000000003507. https://doi.org/10.1097/IAE.0000000000003507
-
-1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>medRxiv.</i> https://doi.org/10.1101/2022.02.06.22270335 (preprint)
 
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Analyzing the Role of Research in the Radiation Oncology Match. <i>Advances in Radiation Oncology, 7</i>(3):100891. https://doi.org/10.1016/j.adro.2021.100891
 
