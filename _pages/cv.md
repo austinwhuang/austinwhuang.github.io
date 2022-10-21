@@ -37,6 +37,8 @@ Publications
 ======
 1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> (accepted) https://doi.org/10.1101/2022.02.06.22270335 (preprint)
 
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
+
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Forthcoming. <i>Advances in Radiation Oncology.</i> (accepted)
 
 1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School: Cross-sectional Study. <i>JMIR Dermatology.</i> http://doi.org/10.2196/39201
