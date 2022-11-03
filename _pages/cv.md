@@ -37,7 +37,7 @@ Publications
 ======
 1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> (accepted) https://doi.org/10.1101/2022.02.06.22270335 (preprint)
 
-1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2022). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2022). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
 
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Forthcoming. <i>Advances in Radiation Oncology.</i> (accepted)
 
@@ -67,15 +67,17 @@ Articles
 
 Selected Abstracts
 ======
-1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022) Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(3):E492.</i> https://doi.org/10.1016/j.ijrobp.2022.07.1771
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022) Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(3):E492. https://doi.org/10.1016/j.ijrobp.2022.07.1771
 
 1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(1):E17-E18. https://doi.org/10.1016/j.ijrobp.2022.06.036
 
 Presentations
 ======
-1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. Accepted poster presentation at: 64th ASTRO Annual Meeting. <i>American Society for Radiation Oncology, San Antonio, TX.</i> October 2022.
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Poster presentation at: Poster Hall of Fame, Real World of Ophthalmology. <i>Top 10 Things I Wish I Knew Sooner, Real World of Ophthalmology.</i> November 2022.
 
-1. <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Bay, C., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: AMA Research Challenge 2022. <i>American Medical Association.</i> October 2022.
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. Poster presentation at: 64th ASTRO Annual Meeting. <i>American Society for Radiation Oncology, San Antonio, TX.</i> October 2022.
+
+1. <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Bay, C., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Poster presentation at: AMA Research Challenge 2022. <i>American Medical Association.</i> October 2022.
 
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Poster presentation at: ASOPRS 53rd Annual Fall Scientific Symposium. <i>American Society of Ophthalmic Plastic and Reconstructive Surgery, Chicago, IL.</i> September 2022.
 
