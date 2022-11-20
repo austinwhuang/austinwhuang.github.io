@@ -35,9 +35,9 @@ Positions
 
 Publications
 ======
-1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> (accepted) https://doi.org/10.1101/2022.02.06.22270335 (preprint)
-
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2022). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
+
+1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> 14(02): e263-e270. https://doi.org/10.1055/s-0042-1758565
 
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). In Reply to Sindhu et al. <i>Advances in Radiation Oncology, 7</i>(6):101067. https://doi.org/10.1016/j.adro.2022.101067
 
@@ -73,6 +73,8 @@ Selected Abstracts
 
 Presentations
 ======
+1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: ACAPS Winter Meeting 2023. <i>American Council of Academic Plastic Surgeons, New Orleans, LA.</i> February 2023.
+
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Poster presentation at: Poster Hall of Fame, Real World of Ophthalmology. <i>Top 10 Things I Wish I Knew Sooner, Real World of Ophthalmology.</i> November 2022.
 
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. Poster presentation at: 64th ASTRO Annual Meeting. <i>American Society for Radiation Oncology, San Antonio, TX.</i> October 2022.
