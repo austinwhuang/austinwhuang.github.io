@@ -61,7 +61,7 @@ Publications
 
 Articles
 ======
-1. Vedantam, S., Patadia. S., Gugala Jr, Z., Brock, D. C., Huang, A., Yen, M. T. (2022) Conjunctival Reactive Lymphoid Hyperplasia. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Conjunctival_Reactive_Lymphoid_Hyperplasia
+1. Vedantam, S., Patadia. S., Gugala Jr, Z., Brock, D. C., <b>Huang, A.</b>, Yen, M. T. (2022) Conjunctival Reactive Lymphoid Hyperplasia. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Conjunctival_Reactive_Lymphoid_Hyperplasia
 
 1. <b>Huang, A.</b>, Ishihara, R., Pakravan, M., Charoenkijkajorn, C., Davila-Siliezar, P., Laylani, N., Al-Zubidi, N., Lee, A. G. (2022) Sinusitis-induced optic neuropathy. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Sinusitis-induced_optic_neuropathy
 
