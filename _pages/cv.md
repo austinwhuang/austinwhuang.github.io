@@ -85,6 +85,10 @@ Presentations
 
 1. Iacobucci, A., Kim, S., <b>Huang, A.</b>, Welsh, J., Zhu, H., Montgomery, A., Lim, Y., Baig, I., Al-Mohtaseb, Z. Analyzing the increase in scholarly activity among female ophthalmology residents. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
+1. Skrehot, H., Bhatnagar, A., <b>Huang, A.</b>, Weng, C. Y. Healthcare Utilization and Access among Diabetic Retinopathy Patients in the United States. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+
+1. Bancroft, A., Buell, J., Jin, W., Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+
 1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: ACAPS Winter Meeting 2023. <i>American Council of Academic Plastic Surgeons, New Orleans, LA.</i> February 2023.
 
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Poster presentation at: Poster Hall of Fame, Real World of Ophthalmology. <i>Top 10 Things I Wish I Knew Sooner, Real World of Ophthalmology.</i> November 2022.
