@@ -7,7 +7,7 @@ redirect_from:
   - /cv
   - /resume
 ---
-Second year medical student at BCM. Research intern at MD Anderson.
+Second year medical student at BCM.
 
 Education
 ======
@@ -24,7 +24,7 @@ Positions
   * Supervisor: Rui Chen, Ph.D.
 
 * The University of Texas MD Anderson Cancer Center
-  * April 2021 - present
+  * April 2021 - December 2022
   * Department of Radiation Oncology
   * Supervisor: Lilie L. Lin, M.D.
 
@@ -79,6 +79,8 @@ Selected Abstracts
 
 Presentations
 ======
+1. <b>Huang, A.</b>, Hussain, H. M. J., Wang, M., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+
 1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: ACAPS Winter Meeting 2023. <i>American Council of Academic Plastic Surgeons, New Orleans, LA.</i> February 2023.
 
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Poster presentation at: Poster Hall of Fame, Real World of Ophthalmology. <i>Top 10 Things I Wish I Knew Sooner, Real World of Ophthalmology.</i> November 2022.
@@ -134,4 +136,3 @@ Extramural Activities
 * NIH/NCI AIDS Malignancy Consortium, MD Anderson Cancer Center, PI: Elizabeth Chiao, MD (grant consultant)
 * <i>Journal of Medical Internet Research</i> (ad hoc reviewer, 1)
 * <i>JMIR Dermatology</i> (ad hoc reviewer, 2)
-  * Cooper B., Anderson J., Laughter M., Presley C., Albrecht J., Dellavalle R. (2022). Top Skin-of-Color Publications in Dermatology. <i>JMIR Dermatology.</i> 2022;5(2):e37256;10.2196/37256. https://doi.org/10.2196/37256
