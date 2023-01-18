@@ -61,6 +61,8 @@ Publications
 
 Articles
 ======
+1. Oliveira, K., Jaber, J., Han, J., Yazdian, A., <b>Huang, A.</b>, Yen, M. T. (2022) Malar / Midface Descent. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Malar_/_Midface_Descent
+
 1. Vedantam, S., Patadia. S., Gugala Jr, Z., Brock, D. C., <b>Huang, A.</b>, Yen, M. T. (2022) Conjunctival Reactive Lymphoid Hyperplasia. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Conjunctival_Reactive_Lymphoid_Hyperplasia
 
 1. <b>Huang, A.</b>, Ishihara, R., Pakravan, M., Charoenkijkajorn, C., Davila-Siliezar, P., Laylani, N., Al-Zubidi, N., Lee, A. G. (2022) Sinusitis-induced optic neuropathy. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Sinusitis-induced_optic_neuropathy
@@ -69,6 +71,8 @@ Articles
 
 Selected Abstracts
 ======
+1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. <i>Plast Reconstr Surg Glob Open.</i> (accepted)
+
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022) Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(3):E492. https://doi.org/10.1016/j.ijrobp.2022.07.1771
 
 1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(1):E17-E18. https://doi.org/10.1016/j.ijrobp.2022.06.036
