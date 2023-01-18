@@ -35,7 +35,7 @@ Positions
 
 Publications
 ======
-1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2022). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
 
 1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> 14(02): e263-e270. https://doi.org/10.1055/s-0042-1758565
 
@@ -71,7 +71,7 @@ Articles
 
 Selected Abstracts
 ======
-1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. <i>Plast Reconstr Surg Glob Open.</i> (accepted)
+1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. (2023) An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. <i>Plast Reconstr Surg Glob Open.</i> (accepted)
 
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022) Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(3):E492. https://doi.org/10.1016/j.ijrobp.2022.07.1771
 
@@ -80,6 +80,10 @@ Selected Abstracts
 Presentations
 ======
 1. <b>Huang, A.</b>, Hussain, H. M. J., Wang, M., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+
+1. Jaber, J., <b>Huang, A.</b>, Zhao, M., Lee, A. G. Epidemiology of Eye-Related Firework Injuries from 2002 to 2021. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+
+1. Iacobucci, A., Kim, S., <b>Huang, A.</b>, Welsh, J., Zhu, H., Montgomery, A., Lim, Y., Baig, I., Al-Mohtaseb, Z. Analyzing the increase in scholarly activity among female ophthalmology residents. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
 1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: ACAPS Winter Meeting 2023. <i>American Council of Academic Plastic Surgeons, New Orleans, LA.</i> February 2023.
 
