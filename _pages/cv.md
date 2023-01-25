@@ -87,7 +87,9 @@ Presentations
 
 1. Skrehot, H., Bhatnagar, A., <b>Huang, A.</b>, Weng, C. Y. Healthcare Utilization and Access among Diabetic Retinopathy Patients in the United States. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
-1. Bancroft, A., Buell, J., Jin, W., Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Impact of Family Participation on Language Development. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+1. Beal, T., Adeyeri, B., Lee, T., <b>Huang, A.</b>, Montgomery, N. Analysis of Research Productivity of Accepted Orthopedic Surgery Residency Applicants. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+
+1. Bancroft, A., Buell, J., Jin, W., Cantu, A., McKey, K., <b>Huang, A.</b>, Vilela, R. J. Parent Involvement in Intervention Services Amplifies Language Development in Children With Hearing Loss. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
 1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: ACAPS Winter Meeting 2023. <i>American Council of Academic Plastic Surgeons, New Orleans, LA.</i> February 2023.
 
