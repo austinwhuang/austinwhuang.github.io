@@ -35,6 +35,8 @@ Positions
 
 Publications
 ======
+1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023) Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. <i>Neuro-Ophthalmology.</i> (accepted)
+
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> (accepted)
 
 1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> 14(02): e263-e270. https://doi.org/10.1055/s-0042-1758565
@@ -79,6 +81,8 @@ Selected Abstracts
 
 Presentations
 ======
+1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J. R., Mattes, M. D. Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. Oral presentation at: 2023 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2023.
+
 1. <b>Huang, A.</b>, Hussain, H. M. J., Wang, M., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
 1. Jaber, J., <b>Huang, A.</b>, Zhao, M., Lee, A. G. Epidemiology of Eye-Related Firework Injuries from 2002 to 2021. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
