@@ -81,7 +81,9 @@ Selected Abstracts
 
 Presentations
 ======
-1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J. R., Mattes, M. D. Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. Oral presentation at: 2023 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2023.
+1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J. R., Mattes, M. D. Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. Accepted oral presentation at: 2023 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2023.
+
+1. Somani, N., Olson, D., Mehta, J., McBee, D., <b>Huang, A.</b>, Bhatnagar, A., Weng, C. Y. Intended versus actual intervals between intravitreal anti-VEGF injections and assessment of treatment delays. Accepted poster presentation at: 2023 ARVO Annual Meeting. <i>The Association for Research in Vision and Ophthalmology, New Orleans, LA.</i> April 2023.
 
 1. <b>Huang, A.</b>, Hussain, H. M. J., Wang, M., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
@@ -131,6 +133,10 @@ Presentations
 
 Awards
 ======
+* YMDC Live 2023 Scholarship
+  * YoungMD Connect (YMDC), Austin, TX
+  * March 2023
+
 * MillennialEYE Live Scholarship
   * YoungMD Connect (YMDC), Austin, TX
   * March 2022
