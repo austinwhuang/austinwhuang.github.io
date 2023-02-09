@@ -37,7 +37,7 @@ Publications
 ======
 1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023) Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. <i>Neuro-Ophthalmology.</i> (accepted)
 
-1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i>
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. <i>Ophthalmic Plastic and Reconstructive Surgery.</i> https://doi.org/10.1097/IOP.0000000000002322
 
 1. Hussain, H. M. J., Wang, M., <b>Huang, A.</b>, Schmidt, R., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. (2023) Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. <i>Genes.</i> 14(2), 447. https://doi.org/10.3390/genes14020447
 
