@@ -35,7 +35,7 @@ Positions
 
 Publications
 ======
-1. Hussain, H. M. J., Wang, M., <b>Huang, A.</b>, Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. (2023) Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. <i>Genes.</i> (accepted)
+1. Hussain, H. M. J., Wang, M., <b>Huang, A.</b>, Schmidt, R., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. (2023) Novel pathogenic mutations identified from whole-genome sequencing of unsolved patients affected with inherited retinal diseases. <i>Genes.</i> (accepted)
 
 1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023) Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. <i>Neuro-Ophthalmology.</i> (accepted)
 
