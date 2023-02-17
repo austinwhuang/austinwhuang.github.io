@@ -99,7 +99,7 @@ Presentations
 
 1. Bancroft, A., Buell, J., Jin, W., <b>Huang, A.</b>, Cantu, A., McKey, K., Vilela, R. J. Parent Involvement in Intervention Services Amplifies Language Development in Children With Hearing Loss. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
-1. Mehta, J., Somani, N., Olson, D., McBee, D., <b>Huang, A.</b>, Bhatnagar, A., Weng, C. Y. Intended versus actual intervals between intravitreal anti-VEGF injections and assessment of treatment delays. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
+1. Mehta, J., Somani, N., Olson, D., McBee, D., <b>Huang, A.</b>, Bhatnagar, A., Weng, C. Y. Comparison of intended versus actual intervals between intravitreal anti-VEGF injections and assessment of treatment delays. Accepted poster presentation at: 23rd Annual Henry J.N. Taub & James K. Alexander Medical Student Research Symposium. <i>Baylor College of Medicine, Houston, TX.</i> March 2023.
 
 1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Accepted poster presentation at: ACAPS Winter Meeting 2023. <i>American Council of Academic Plastic Surgeons, New Orleans, LA.</i> February 2023.
 
