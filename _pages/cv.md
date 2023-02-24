@@ -35,6 +35,8 @@ Positions
 
 Publications
 ======
+1. <b>Huang, A.</b>, Huang, K. Y., Kim, S. J. (2022). Retractions in Dermatology Literature between 1982 and 2022. <i>JMIR Dermatology.</i> (accepted)
+
 1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023). Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. <i>Neuro-Ophthalmology.</i> https://doi.org/10.1080/01658107.2023.2176891
 
 1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. [published online ahead of print, 2023 Feb 9]. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;10.1097/IOP.0000000000002322. https://doi.org/10.1097/IOP.0000000000002322
@@ -54,8 +56,6 @@ Publications
 1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors [published online ahead of print, 2022 Jul 2]. <i>Ophthalmology Glaucoma.</i> 2022;S2589-4196(22)00086-2. https://doi.org/10.1016/j.ogla.2022.05.005 
 
 1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index [published online ahead of print, 2022 Jun 7]. <i>Journal of Surgical Research.</i> 2022;S0022-4804(22)00220-7. http://doi.org/10.1016/j.jss.2022.02.057
-
-1. <b>Huang, A.</b>, Kim, S. J. (2022). Retractions in Dermatology Literature between 1982 and 2022. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39021 (preprint)
 
 1. <b>Huang, A.</b>, Weng, C. Y. (2022). Re: Altmetric Analysis of the Most-Cited 100 Articles on the Retina Published between 2010 and 2020. <i>Retina.</i> 2022;10.1097/IAE.0000000000003507. https://doi.org/10.1097/IAE.0000000000003507
 
