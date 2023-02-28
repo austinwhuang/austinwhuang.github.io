@@ -1,9 +1,9 @@
 ---
-title: "Retractions in Dermatology Literature between 1982 and 2022."
+title: "Retractions in Dermatology Literature between 1982 and 2022: Cross-sectional Study."
 collection: publications
-permalink: /publication/2022-derm
-date: 2022-05-02
-venue: JMIR Preprints
+permalink: /publication/2023-derm
+date: 2023-03-01
+venue: JMIR Dermatology
 link: 'http://doi.org/10.2196/preprints.39021'
-citation: '<b>Huang, A.</b>, Kim, S. J. (2022). Retractions in Dermatology Literature between 1982 and 2022. <i>JMIR Preprints.</i> http://doi.org/10.2196/preprints.39021 (preprint)' 
+citation: '<b>Huang, A.</b>, Huang, K. Y., Kim, S. J. (2023). Retractions in Dermatology Literature between 1982 and 2022: Cross-sectional Study. JMIR Dermatology. (accepted)' 
 ---
