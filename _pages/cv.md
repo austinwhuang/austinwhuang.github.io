@@ -35,7 +35,7 @@ Positions
 
 Publications
 ======
-1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic <i>Ophthalmic Plast Reconstr Surg.</i> (accepted)
+1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> (accepted)
 
 1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Association of demographic factors and medical school research productivity with dermatology residency tier placement: A national cohort study. <i>J Am Acad Dermatol.</i> (accepted)
 
