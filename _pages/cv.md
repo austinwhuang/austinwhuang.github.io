@@ -37,9 +37,9 @@ Publications
 ======
 1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> (accepted)
 
-1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Association of demographic factors and medical school research productivity with dermatology residency tier placement: A national cohort study. <i>J Am Acad Dermatol.</i> (accepted)
-
 1. <b>Huang, A.</b>, Huang, K. Y., Kim, S. J. (2023). Retractions in Dermatology Literature between 1982 and 2022: Cross-sectional Study. <i>JMIR Dermatology.</i> (accepted)
+
+1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Association of demographic factors and medical school research productivity with dermatology residency tier placement: A national cohort study [published online ahead of print, 2023 Mar 14]. <i>J Am Acad Dermatol.</i> 2023;S0190-9622(23)00369-9. https://doi.org/10.1016/j.jaad.2023.03.003
 
 1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023). Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. <i>Neuro-Ophthalmology.</i> https://doi.org/10.1080/01658107.2023.2176891
 
