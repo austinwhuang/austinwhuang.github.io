@@ -35,7 +35,7 @@ Positions
 
 Publications
 ======
-1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. Clin Dermatol. 2023;S0738-081X(23)00049-4. doi:10.1016/j.clindermatol.2023.05.002
+1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. <i>Clin Dermatol.</i> 2023;S0738-081X(23)00049-4. doi:10.1016/j.clindermatol.2023.05.002
 
 1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;39(3):297-298. doi:10.1097/IOP.0000000000002405
 
@@ -71,7 +71,7 @@ Publications
 
 Articles
 ======
-1. <b>Huang, A.</b>, Yen, K. G. (2023). Amblyopia. <i>Medscape Drugs & Diseases.</i> Updated 6 June 2023. https://emedicine.medscape.com/article/1214603-overview
+1. <b>Huang, A.</b>, Yen, K. G. (2023). Amblyopia. <i>Medscape Drugs & Diseases.</i> Updated 6 June 2023. emedicine.medscape.com/article/1214603-overview
 
 1. Jaber, J., Chandra, K., Langston, W., <b>Huang, A.</b>, Yen, M. T. (2023). Schwartz-Jampel Syndrome. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Schwartz-Jampel-Syndrome
 
@@ -85,9 +85,9 @@ Articles
 
 Selected Abstracts
 ======
-1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. <i>International Journal of Radiation Oncology Biology Physics, 116</i>(3):e8114. https://doi.org/10.1016/j.ijrobp.2023.03.017
-
 1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. (2023). An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. <i>Plast Reconstr Surg Glob Open.</i> (accepted)
+
+1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. <i>International Journal of Radiation Oncology Biology Physics, 116</i>(3):e8114. https://doi.org/10.1016/j.ijrobp.2023.03.017
 
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022). Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(3):E492. https://doi.org/10.1016/j.ijrobp.2022.07.1771
 
