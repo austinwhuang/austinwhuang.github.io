@@ -35,9 +35,9 @@ Positions
 
 Publications
 ======
-1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. <i>Clin Dermatol.</i> 2023;S0738-081X(23)00049-4. doi:10.1016/j.clindermatol.2023.05.002
+1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. <i>Clin Dermatol.</i> 2023;S0738-081X(23)00049-4. https://doi.org/10.1016/j.clindermatol.2023.05.002
 
-1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;39(3):297-298. doi:10.1097/IOP.0000000000002405
+1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;39(3):297-298. https://doi.org/10.1097/IOP.0000000000002405
 
 1. <b>Huang, A.</b>, Huang, K. Y., Kim, S. J. (2023). Retractions in Dermatology Literature between 1982 and 2022: Cross-sectional Study. <i>JMIR Dermatology.</i> https://doi.org/10.2196/39021
 
