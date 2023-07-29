@@ -7,7 +7,7 @@ redirect_from:
   - /cv
   - /resume
 ---
-Second year medical student at BCM.
+Third year medical student at BCM.
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 Positions
 ======
 * Baylor College of Medicine
-  * August 2022 - present
+  * August 2022 - January 2023
   * Department of Molecular and Human Genetics
   * Supervisor: Rui Chen, Ph.D.
 
@@ -35,6 +35,10 @@ Positions
 
 Publications
 ======
+1. <b>Huang, A.</b>, Pan, J., Guo, R., La Jr, T., Isidro, S., Isidro, T., Rendely, A., Niehaus, W., Huang, D. (2023). Quantifying the Dissemination of Research in the <i>PM&R</i> Journal via Alternative Metrics. <i>PM&R: The journal of injury, function and rehabilitation.</i> (in press)
+
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Medical Student Research Mentorship in Radiation Oncology. <i>Advances in Radiation Oncology.</i> https://doi.org/10.1016/j.adro.2023.101323 (in press)
+
 1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. <i>Clin Dermatol.</i> 2023;S0738-081X(23)00049-4. https://doi.org/10.1016/j.clindermatol.2023.05.002
 
 1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;39(3):297-298. https://doi.org/10.1097/IOP.0000000000002405
