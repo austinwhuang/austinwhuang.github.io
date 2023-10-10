@@ -35,6 +35,10 @@ Positions
 
 Publications
 ======
+1. Sampige, R., Rodgers, E. G., <b>Huang, A.</b>, Zhu, D. (2023). Education and Misinformation: Exploring Ophthalmology Content on TikTok. <i>Ophthalmology and Therapy.</i> (in press)
+
+1. Adeyeri, B., Lee, T., Beal, T., <b>Huang, A.</b>, Harrington, M. A. (2023). Analysis of Research Productivity of Orthopedic Surgery Residency Applicants. <i>Cureus.</i> (in press)
+
 1. <b>Huang, A.</b>, Pan, J., Guo, R., La Jr, T., Isidro, S., Isidro, T., Rendely, A., Niehaus, W., Huang, D. (2023). Quantifying the Dissemination of Research in the <i>PM&R</i> Journal via Alternative Metrics. <i>PM&R: The journal of injury, function and rehabilitation.</i> (in press)
 
 1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Medical Student Research Mentorship in Radiation Oncology. <i>Advances in Radiation Oncology.</i> https://doi.org/10.1016/j.adro.2023.101323 (in press)
@@ -60,8 +64,6 @@ Publications
 1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School: Cross-sectional Study. <i>JMIR Dermatology.</i> http://doi.org/10.2196/39201
 
 1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Altmetric Attention Scores in Ophthalmology Journals [published online ahead of print, 2022 Aug 18]. <i>JAMA Ophthalmology.</i> 2022;10.1001/jamaophthalmol.2022.3160. https://doi.org/10.1001/jamaophthalmol.2022.3160
-
-1. <b>Huang, A.</b>, Zhu, D. (2022). Exploring Ophthalmology Content on TikTok. <i>medRxiv.</i> https://doi.org/10.1101/2022.07.07.22277339 (preprint)
 
 1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors [published online ahead of print, 2022 Jul 2]. <i>Ophthalmology Glaucoma.</i> 2022;S2589-4196(22)00086-2. https://doi.org/10.1016/j.ogla.2022.05.005 
 
