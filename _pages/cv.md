@@ -173,8 +173,4 @@ Awards
 
 Extramural Activities
 ======
-* Corza Medical, Division of Ophthalmology (consultant)
-* AI Optics (consultant)
-* NIH/NCI AIDS Malignancy Consortium, MD Anderson Cancer Center, PI: Elizabeth Chiao, MD (grant consultant)
-* <i>Journal of Medical Internet Research</i> (ad hoc reviewer, 1)
-* <i>JMIR Dermatology</i> (ad hoc reviewer, 2)
+* <i>Journal of Medical Internet Research</i> (ad hoc reviewer)
