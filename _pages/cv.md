@@ -9,6 +9,8 @@ redirect_from:
 ---
 Third year medical student at BCM.
 
+Founder and Editor-in-Chief of the [Baylor Medical Student Review](https://www.baylormsr.com/). 
+
 Education
 ======
 * Baylor College of Medicine
@@ -35,13 +37,15 @@ Positions
 
 Publications
 ======
-1. Sampige, R., Rodgers, E. G., <b>Huang, A.</b>, Zhu, D. (2023). Education and Misinformation: Exploring Ophthalmology Content on TikTok. <i>Ophthalmology and Therapy.</i> (in press)
+1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2024). Characterization of Research Mentorship During Medical School for Future Radiation Oncology Trainees Advances in Radiation Oncology. <i>Advances in Radiation Oncology.</i> (in press)
 
-1. Adeyeri, B., Lee, T., Beal, T., <b>Huang, A.</b>, Harrington, M. A. (2023). Analysis of Research Productivity of Orthopedic Surgery Residency Applicants. <i>Cureus.</i> (in press)
+1. <b>Huang, A.</b>, Pan, J., Guo, R., La Jr, T., Isidro, S., Isidro, T., Rendely, A., Niehaus, W., Huang, D. (2023). Quantifying the Dissemination of Research in the <i>PM&R</i> Journal via Alternative Metrics. <i>PM&R: The journal of injury, function and rehabilitation.</i> 2023;15(12):1673-1677. https://doi.org/10.1002/pmrj.13064
 
-1. <b>Huang, A.</b>, Pan, J., Guo, R., La Jr, T., Isidro, S., Isidro, T., Rendely, A., Niehaus, W., Huang, D. (2023). Quantifying the Dissemination of Research in the <i>PM&R</i> Journal via Alternative Metrics. <i>PM&R: The journal of injury, function and rehabilitation.</i> (in press)
+1. Sampige, R., Rodgers, E. G., <b>Huang, A.</b>, Zhu, D. (2023). Education and Misinformation: Exploring Ophthalmology Content on TikTok. <i>Ophthalmology and Therapy.</i> 2024;13(1):97-112. https://doi.org/10.1007/s40123-023-00834-6
 
-1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Medical Student Research Mentorship in Radiation Oncology. <i>Advances in Radiation Oncology.</i> https://doi.org/10.1016/j.adro.2023.101323 (in press)
+1. Adeyeri, B., Lee, T., Beal, T., <b>Huang, A.</b>, Harrington, M. A. (2023). Analysis of Research Productivity of Orthopedic Surgery Residency Applicants. <i>Cureus.</i> 2023;15(10):e46384. https://doi.org/10.7759/cureus.46384
+
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Medical Student Research Mentorship in Radiation Oncology. <i>Advances in Radiation Oncology.</i> 2023;9(1):101323. https://doi.org/10.1016/j.adro.2023.101323 
 
 1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. <i>Clin Dermatol.</i> 2023;S0738-081X(23)00049-4. https://doi.org/10.1016/j.clindermatol.2023.05.002
 
