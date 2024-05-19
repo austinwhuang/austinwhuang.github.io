@@ -157,8 +157,16 @@ Presentations
 
 1. <b>Huang, A.</b>, Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
 
-Awards
+Awards and Honors
 ======
+* Alpha Omega Alpha
+  * Baylor College of Medicine, Houston, TX
+  * April 2024
+
+* Dr. Ming Tzu Ko Memorial Scholarship
+  * Chinese American Doctors Association of Houston, Houston, TX
+  * March 2024
+
 * YMDC Live 2023 Scholarship
   * YoungMD Connect (YMDC), Austin, TX
   * March 2023
@@ -178,3 +186,5 @@ Awards
 Extramural Activities
 ======
 * <i>Journal of Medical Internet Research</i> (ad hoc reviewer)
+
+* <i>Corza Medical</i> (consultant)
