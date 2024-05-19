@@ -15,8 +15,11 @@ Education
 ======
 * Baylor College of Medicine
   * M.D., 2021 - 2025
+  * Alpha Omega Alpha
+
 * The University of Texas at Austin
   * B.S.A. Biology, 2017 - 2020
+  * Phi Beta Kappa
 
 Positions
 ======
@@ -157,12 +160,8 @@ Presentations
 
 1. <b>Huang, A.</b>, Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
 
-Awards and Honors
+Awards
 ======
-* Alpha Omega Alpha
-  * Baylor College of Medicine, Houston, TX
-  * April 2024
-
 * Dr. Ming Tzu Ko Memorial Scholarship
   * Chinese American Doctors Association of Houston, Houston, TX
   * March 2024
@@ -178,10 +177,6 @@ Awards and Honors
 * Undergraduate Research Fellowship
   * The University of Texas at Austin, Austin, TX
   * March 2021
-
-* Phi Beta Kappa
-  * The University of Texas at Austin, Austin, TX
-  * January 2021
 
 Extramural Activities
 ======
