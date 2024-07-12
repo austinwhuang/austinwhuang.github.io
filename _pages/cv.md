@@ -7,106 +7,95 @@ redirect_from:
   - /cv
   - /resume
 ---
-Third year medical student at BCM.
+Fourth year medical student at BCM.
 
 Founder and Editor-in-Chief of the [Baylor Medical Student Review](https://www.baylormsr.com/). 
 
 Education
 ======
 * Baylor College of Medicine
-  * M.D., 2021 - 2025
-  * Alpha Omega Alpha
+  * Doctor of Medicine (MD), Alpha Omega Alpha
+  * 2021 - 2025
 
 * The University of Texas at Austin
-  * B.S.A. Biology, 2017 - 2020
-  * Phi Beta Kappa
-
-Positions
-======
-* Baylor College of Medicine
-  * August 2022 - January 2023
-  * Department of Molecular and Human Genetics
-  * Supervisor: Rui Chen, Ph.D.
-
-* The University of Texas MD Anderson Cancer Center
-  * April 2021 - December 2022
-  * Department of Radiation Oncology
-  * Supervisor: Lilie L. Lin, M.D.
-
-* The University of Texas at Austin
-  * March 2019 - April 2021
-  * Department of Molecular Biosciences
-  * Supervisor: Hong Qiao, Ph.D.
+  * Bachelor of Science and Arts (BSA), Biology, High Honors
+  * 2017 - 2020
 
 Publications
 ======
-1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2024). Characterization of Research Mentorship During Medical School for Future Radiation Oncology Trainees Advances in Radiation Oncology. <i>Advances in Radiation Oncology.</i> (in press)
+1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2024). Characterization of Research Mentorship During Medical School for Future Radiation Oncology Trainees Advances in Radiation Oncology. Advances in Radiation Oncology. 2024;9(5):101460. https://doi.org/10.1016/j.adro.2024.101460
 
-1. <b>Huang, A.</b>, Pan, J., Guo, R., La Jr, T., Isidro, S., Isidro, T., Rendely, A., Niehaus, W., Huang, D. (2023). Quantifying the Dissemination of Research in the <i>PM&R</i> Journal via Alternative Metrics. <i>PM&R: The journal of injury, function and rehabilitation.</i> 2023;15(12):1673-1677. https://doi.org/10.1002/pmrj.13064
+1. <b>Huang, A.</b>, Pan, J., Guo, R., La Jr, T., Isidro, S., Isidro, T., Rendely, A., Niehaus, W., Huang, D. (2023). Quantifying the Dissemination of Research in the PM&R Journal via Alternative Metrics. PM&R: The journal of injury, function and rehabilitation. 2023;15(12):1673-1677. https://doi.org/10.1002/pmrj.13064
 
-1. Sampige, R., Rodgers, E. G., <b>Huang, A.</b>, Zhu, D. (2023). Education and Misinformation: Exploring Ophthalmology Content on TikTok. <i>Ophthalmology and Therapy.</i> 2024;13(1):97-112. https://doi.org/10.1007/s40123-023-00834-6
+1. Sampige, R., Rodgers, E. G., <b>Huang, A.</b>, Zhu, D. (2023). Education and Misinformation: Exploring Ophthalmology Content on TikTok. Ophthalmology and Therapy. https://doi.org/10.1007/s40123-023-00834-6
 
-1. Adeyeri, B., Lee, T., Beal, T., <b>Huang, A.</b>, Harrington, M. A. (2023). Analysis of Research Productivity of Orthopedic Surgery Residency Applicants. <i>Cureus.</i> 2023;15(10):e46384. https://doi.org/10.7759/cureus.46384
+1. Adeyeri, B., Lee, T., Beal, T., <b>Huang, A.</b>, Harrington, M. A. (2023). Analysis of Research Productivity of Orthopedic Surgery Residency Applicants. Cureus. Adeyeri B, Lee T, Beal T, Huang A, Harrington MA. Analysis of Research Productivity of Orthopedic Surgery Residency Applicants. Cureus. 2023;15(10):e46384. https://doi.org/10.7759/cureus.46384
 
-1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Medical Student Research Mentorship in Radiation Oncology. <i>Advances in Radiation Oncology.</i> 2023;9(1):101323. https://doi.org/10.1016/j.adro.2023.101323 
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Medical Student Research Mentorship in Radiation Oncology. Advances in Radiation Oncology. https://doi.org/10.1016/j.adro.2023.101323
 
-1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents [published online ahead of print, 2023 Jun 2]. <i>Clin Dermatol.</i> 2023;S0738-081X(23)00049-4. https://doi.org/10.1016/j.clindermatol.2023.05.002
+1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Demographic and applicant-specific Predictors of medical school research productivity in a national cohort of dermatology residents. Clin Dermatol. 2023;S0738-081X(23)00049-4. https://doi.org/10.1016/j.clindermatol.2023.05.002
 
-1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;39(3):297-298. https://doi.org/10.1097/IOP.0000000000002405
+1. <b>Huang, A.</b>, Jaber, J., Yen, M. T. (2023). Residency Research Output of Ophthalmic Plastic and Reconstructive Fellows Amidst the COVID-19 Pandemic. Ophthalmic Plast Reconstr Surg. 2023;39(3):297-298. https://doi.org/10.1097/IOP.0000000000002405
 
-1. <b>Huang, A.</b>, Huang, K. Y., Kim, S. J. (2023). Retractions in Dermatology Literature between 1982 and 2022: Cross-sectional Study. <i>JMIR Dermatology.</i> https://doi.org/10.2196/39021
+1. <b>Huang, A.</b>, Huang, K. Y., Kim, S. J. (2023). Retractions in Dermatology Literature between 1982 and 2022: Cross-sectional Study. JMIR Dermatology. https://doi.org/10.2196/39021
 
-1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Association of demographic factors and medical school research productivity with dermatology residency tier placement: A national cohort study [published online ahead of print, 2023 Mar 14]. <i>J Am Acad Dermatol.</i> 2023;S0190-9622(23)00369-9. https://doi.org/10.1016/j.jaad.2023.03.003
+1. Zhu, H., <b>Huang, A.</b>, Zhou, K., Bhatnagar, A., Sorensen, R., Cordova, K., Calderara, G. A., Dasari, N., Kirby, R. P., Kim, S.J. (2023). Association of demographic factors and medical school research productivity with dermatology residency tier placement: A national cohort study. J Am Acad Dermatol. 2023;S0190-9622(23)00369-9. https://doi.org/10.1016/j.jaad.2023.03.003
 
-1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023). Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. <i>Neuro-Ophthalmology.</i> https://doi.org/10.1080/01658107.2023.2176891
+1. Skrehot, H. C., Bhatnagar, A., <b>Huang, A.</b>, Lee, A. G. (2023). Risk Factors for Multiple Sclerosis Development after Optic Neuritis Diagnosis Using a Nationwide Health Records Database. Neuro-Ophthalmology. https://doi.org/10.1080/01658107.2023.2176891
 
-1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. [published online ahead of print, 2023 Feb 9]. <i>Ophthalmic Plast Reconstr Surg.</i> 2023;10.1097/IOP.0000000000002322. https://doi.org/10.1097/IOP.0000000000002322
+1. <b>Huang, A.</b>, Kirby, R. P., Huang, K. Y., Du, T., Mu, A., Wu, S., Nguyen, C., Dang, R., Yoon, S. P., Yen, M. T., Al-Mohtaseb, Z. (2023). Trends in Residency Academic Productivity of Ophthalmic Plastic and Reconstructive Surgery Fellows Between 2012 and 2019. Ophthalmic Plast Reconstr Surg. 2023;10.1097/IOP.0000000000002322. https://doi.org/10.1097/IOP.0000000000002322
 
-1. Hussain, H. M. J., Wang, M., <b>Huang, A.</b>, Schmidt, R., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. (2023). Novel Pathogenic Mutations Identified from Whole-Genome Sequencing of Unsolved Patients Affected with Inherited Retinal Diseases. <i>Genes.</i> 14(2), 447. https://doi.org/10.3390/genes14020447
+1. Hussain, H. M. J., Wang, M., <b>Huang, A.</b>, Schmidt, R., Qian, X., Li, Y., Pennesi, M. E., Yang, P., Marra, M., Chen, R. (2023). Novel Pathogenic Mutations Identified from Whole-Genome Sequencing of Unsolved Patients Affected with Inherited Retinal Diseases. Genes. 14(2), 447. https://doi.org/10.3390/genes14020447
 
-1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. <i>Journal of Academic Ophthalmology.</i> 14(02): e263-e270. https://doi.org/10.1055/s-0042-1758565
+1. <b>Huang, A.</b>, Kim, S., Zhu, H., Pathare, N., Ooi, X. Y., Kirby, R. P., Yoon, S. P., Al-Mohtaseb, Z. (2022). A Bibliometric Analysis of Ophthalmology Resident Research Productivity in the United States. Journal of Academic Ophthalmology. 14(02): e263-e270. https://doi.org/10.1055/s-0042-1758565
 
-1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). In Reply to Sindhu et al. <i>Advances in Radiation Oncology, 7</i>(6):101067. https://doi.org/10.1016/j.adro.2022.101067
+1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). In Reply to Sindhu et al. Advances in Radiation Oncology, 7(6):101067. https://doi.org/10.1016/j.adro.2022.101067
 
-1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School: Cross-sectional Study. <i>JMIR Dermatology.</i> http://doi.org/10.2196/39201
+1. <b>Huang, A.</b>, Zhu. H., Zhou, K., Kirby, R. P., Dasari, N., Calderara, G. A., Cordova, K., Sorensen, R., Bhatnagar, A., Kim, S. J. (2022). Social Media Impact of Articles Published by Dermatology Residents during Medical School: Cross-sectional Study. JMIR Dermatology. http://doi.org/10.2196/39201
 
-1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Altmetric Attention Scores in Ophthalmology Journals [published online ahead of print, 2022 Aug 18]. <i>JAMA Ophthalmology.</i> 2022;10.1001/jamaophthalmol.2022.3160. https://doi.org/10.1001/jamaophthalmol.2022.3160
+1. <b>Huang, A.</b>, Lee, A. G., Weng, C. Y. (2022). Altmetric Attention Scores in Ophthalmology Journals. JAMA Ophthalmology. 2022;10.1001/jamaophthalmol.2022.3160. https://doi.org/10.1001/jamaophthalmol.2022.3160
 
-1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors [published online ahead of print, 2022 Jul 2]. <i>Ophthalmology Glaucoma.</i> 2022;S2589-4196(22)00086-2. https://doi.org/10.1016/j.ogla.2022.05.005 
+1. <b>Huang, A.</b>, Xu, H., Keehn, C., Lee, A. G. (2022). Re: Descriptive Analysis of United States Glaucoma Fellowship Program Directors. Ophthalmology Glaucoma. 2022;S2589-4196(22)00086-2. https://doi.org/10.1016/j.ogla.2022.05.005
 
-1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index [published online ahead of print, 2022 Jun 7]. <i>Journal of Surgical Research.</i> 2022;S0022-4804(22)00220-7. http://doi.org/10.1016/j.jss.2022.02.057
+1. <b>Huang, A.</b>, Maricevich, R. S. (2022). An Alternative Metric to Address Limitations of the H-Index. Journal of Surgical Research. 2022;S0022-4804(22)00220-7. http://doi.org/10.1016/j.jss.2022.02.057
 
-1. <b>Huang, A.</b>, Weng, C. Y. (2022). Re: Altmetric Analysis of the Most-Cited 100 Articles on the Retina Published between 2010 and 2020. <i>Retina.</i> 2022;10.1097/IAE.0000000000003507. https://doi.org/10.1097/IAE.0000000000003507
+1. <b>Huang, A.</b>, Weng, C. Y. (2022). Re: Altmetric Analysis of the Most-Cited 100 Articles on the Retina Published between 2010 and 2020. Retina. 2022;10.1097/IAE.0000000000003507. https://doi.org/10.1097/IAE.0000000000003507
 
-1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Analyzing the Role of Research in the Radiation Oncology Match. <i>Advances in Radiation Oncology, 7</i>(3):100891. https://doi.org/10.1016/j.adro.2021.100891
+1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. (2022). Analyzing the Role of Research in the Radiation Oncology Match. Advances in Radiation Oncology, 7(3):100891. https://doi.org/10.1016/j.adro.2021.100891
 
-1. Wang, L., Zhang, Z., Zhang, F., Shao, Z., Zhao, B., <b>Huang, A.</b>, Tran, J., Hernandez, F. V., Qiao, H. (2021). EIN2-Directed Histone Acetylation Requires EIN3-Mediated Positive Feedback Regulation in Response to Ethylene. <i>The Plant Cell, 33</i>(2), 322–337. https://doi.org/10.1093/plcell/koaa029
+1. Wang, L., Zhang, Z., Zhang, F., Shao, Z., Zhao, B., <b>Huang, A.</b>, Tran, J., Hernandez, F. V., Qiao, H. (2021). EIN2-Directed Histone Acetylation Requires EIN3-Mediated Positive Feedback Regulation in Response to Ethylene. The Plant Cell, 33(2), 322–337. https://doi.org/10.1093/plcell/koaa029
 
-Articles
+Book Chapters
 ======
-1. <b>Huang, A.</b>, Yen, K. G. (2023). Amblyopia. <i>Medscape Drugs & Diseases.</i> Updated 6 June 2023. emedicine.medscape.com/article/1214603-overview
+1. Nibras, S., Li, E., Truong, A., <b>Huang, A.</b>, Huang, K. Y., Williams, L. L. (2024). Integrating Pharmacotherapy into Brief Interventions for Child and Adolescent Treatment. In: Davis III, T.E., Storch, E.A. (eds) Brief CBT and Science-Based Tailoring for Children, Adolescents, and Young Adults. CBT: Science Into Practice. Springer, Cham. https://doi.org/10.1007/978-3-031-60746-2_14
 
-1. Jaber, J., Chandra, K., Langston, W., <b>Huang, A.</b>, Yen, M. T. (2023). Schwartz-Jampel Syndrome. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Schwartz-Jampel-Syndrome
+1. <b>Huang, A.</b>, Wang, M., Lee, K., Worley, K. C., Chen, R. (2024). Establishment of the Clinical Genome Resource (ClinGen) X-Linked Inherited Retinal Disease Variant Curation Expert Panel. In: Prakash, G., Iwata, T. (eds) Advances in Vision Research, Volume IV. Essentials in Ophthalmology. Springer, Singapore. https://doi.org/10.1007/978-981-99-4436-1_2
 
-1. Oliveira, K., Jaber, J., Han, J., Yazdian, A., <b>Huang, A.</b>, Yen, M. T. (2022). Malar / Midface Descent. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Malar_/_Midface_Descent
-
-1. Vedantam, S., Patadia. S., Gugala Jr, Z., Brock, D. C., <b>Huang, A.</b>, Yen, M. T. (2022). Conjunctival Reactive Lymphoid Hyperplasia. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Conjunctival_Reactive_Lymphoid_Hyperplasia
-
-1. <b>Huang, A.</b>, Ishihara, R., Pakravan, M., Charoenkijkajorn, C., Davila-Siliezar, P., Laylani, N., Al-Zubidi, N., Lee, A. G. (2022). Sinusitis-induced optic neuropathy. <i>EyeWiki. American Academy of Ophthalmology.</i> eyewiki.org/Sinusitis-induced_optic_neuropathy
-
-1. <b>Huang, A.</b> (2022). How the NRMP can Clarify the Match Process with One Simple Change. <i>Doximity.</i> opmed.doximity.com/articles/how-the-nrmp-can-clarify-the-match-process-with-one-simple-change
-
-Selected Abstracts
+Other Publications
 ======
-1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. (2023). An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. <i>Plast Reconstr Surg Glob Open.</i> (accepted)
+1. Yen, K. G., <b>Huang, A.</b> (2023). Amblyopia. Medscape Drugs & Diseases. Updated 6 June 2023. 
 
-1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. <i>International Journal of Radiation Oncology Biology Physics, 116</i>(3):e8114. https://doi.org/10.1016/j.ijrobp.2023.03.017
+1. Jaber, J., Chandra, K., Langston, W., <b>Huang, A.</b>, Yen, M. T. (2023). Schwartz-Jampel Syndrome. EyeWiki. American Academy of Ophthalmology.
 
-1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022). Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(3):E492. https://doi.org/10.1016/j.ijrobp.2022.07.1771
+1. Oliveira, K., Jaber, J., Han, J., Yazdian, A., <b>Huang, A.</b>, Yen, M. T. (2022). Malar / Midface Descent. EyeWiki. American Academy of Ophthalmology.
 
-1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. <i>International Journal of Radiation Oncology Biology Physics, 114</i>(1):E17-E18. https://doi.org/10.1016/j.ijrobp.2022.06.036
+1. Vedantam, S., Patadia. S., Gugala Jr, Z., Brock, D. C., <b>Huang, A.</b>, Yen, M. T. (2022). Conjunctival Reactive Lymphoid Hyperplasia. EyeWiki. American Academy of Ophthalmology.
 
-Presentations
+1. <b>Huang, A.</b>, Ishihara, R., Pakravan, M., Charoenkijkajorn, C., Davila-Siliezar, P., Laylani, N., Al-Zubidi, N., Lee, A. G. (2022). Sinusitis-induced optic neuropathy. EyeWiki. American Academy of Ophthalmology.
+
+1. <b>Huang, A.</b> (2022). How the NRMP can Clarify the Match Process with One Simple Change. Doximity Op-Med.
+
+Select Abstracts
+======
+1. Bay, C., <b>Huang, A.</b>, Mu, A., Wu, S. X., Mathew, N., Zhao, M., Maricevich, R. S. (2023). An Altmetric Analysis of Medical School Research by Plastic Surgery Residents. Plast Reconstr Surg Glob Open.
+
+1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2023). Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. International Journal of Radiation Oncology Biology Physics, 116(3):e8114.
+
+1. Bono, K., Palmeri, M., <b>Huang, A.</b>, Gunther, J., Mattes, M. (2022). Assessment of Medical Student Research Mentorship Based on Publications in ASTRO Journals. International Journal of Radiation Oncology Biology Physics, 114(3):E492.
+
+1. <b>Huang, A.</b>, Pan, E., Bono, K., Palmeri, M., Mattes, M. D., Lin, L. L., Gunther, J. R. (2022). A Novel Method to Characterize Medical School Research Productivity Among Radiation Oncology Residents. International Journal of Radiation Oncology Biology Physics, 114(1):E17-E18.
+
+Select Presentations
 ======
 1. Palmeri, M., Bono, K., <b>Huang, A.</b>, Gunther, J. R., Mattes, M. D. Assessment of Research Mentorship During Medical School for Future Radiation Oncology Trainees. Accepted oral presentation at: 2023 Annual ROECSG Spring Symposium. <i>Radiation Oncology Education Collaborative Study Group, Chicago, IL.</i> May 2023.
 
@@ -159,27 +148,3 @@ Presentations
 1. <b>Huang, A.</b>, Gunther J. R., Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: Division of Radiation Oncology Summer Student Symposium. <i>The University of Texas MD Anderson Cancer Center, Houston, TX.</i> August 2021.
 
 1. <b>Huang, A.</b>, Lin, L. L. Analyzing the Role of Research in the Radiation Oncology Match. Oral presentation at: 62nd Annual National Student Research Forum. <i>The University of Texas Medical Branch, Galveston, TX.</i> May 2021.
-
-Awards
-======
-* Dr. Ming Tzu Ko Memorial Scholarship
-  * Chinese American Doctors Association of Houston, Houston, TX
-  * March 2024
-
-* YMDC Live 2023 Scholarship
-  * YoungMD Connect (YMDC), Austin, TX
-  * March 2023
-
-* MillennialEYE Live Scholarship
-  * YoungMD Connect (YMDC), Austin, TX
-  * March 2022
-
-* Undergraduate Research Fellowship
-  * The University of Texas at Austin, Austin, TX
-  * March 2021
-
-Extramural Activities
-======
-* <i>Journal of Medical Internet Research</i> (ad hoc reviewer)
-
-* <i>Corza Medical</i> (consultant)
