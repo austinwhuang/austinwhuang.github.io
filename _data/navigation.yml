@@ -1,11 +1,7 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/
-    
+main:    
   - title: "Group"
     url: https://premed.boards.net/  
     
   - title: "Contact"
     url: /contact/
-    
