@@ -7,8 +7,8 @@ redirect_from:
   - /cv
   - /resume
 ---
-Austin Huang, MD
 Resident Physician, Internal Medicine
+
 Emory University School of Medicine
 
 Founding Editor-in-Chief of the [Baylor Medical Student Review](https://www.baylormsr.com/). 
