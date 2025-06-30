@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Austin Huang"
+title                    : "Austin Huang, MD"
 title_separator          : "-"
-name                     : &name "Austin Huang"
-description              : &description "Austin Huang"
+name                     : &name "Austin Huang, MD"
+description              : &description "Austin Huang, MD"
 url                      : https://www.austinhuangmd.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "austinwhuang/austinwhuang.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Austin Huang"
+  name             : "Austin Huang, MD"
   avatar           : "200.jpg"
   bio              : "Resident Physician"
   location         : "Atlanta, GA"
