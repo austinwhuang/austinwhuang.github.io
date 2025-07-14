@@ -29,9 +29,9 @@ Education
 
 Select Publications
 ======
-1. Redacted. JAMA Network Open. Publication Status: In Press.
+1. Embargoed. JAMA Network Open. Publication Status: In Press.
 
-1. Redacted. JCO Global Oncology. Publication Status: In Press.
+1. Embargoed. JCO Global Oncology. Publication Status: In Press.
 
 1. Huang KY, Patel PA, <b>Huang A</b>, Ho AC, Jonas JB, Sun X, Chen Y, Zheng Y, Tham YC, Weng CY, Wong TY. Decline in US-China science: Can ophthalmology remain collaborative? Advances in Ophthalmology Practice and Research. November 2024;5(1):13-15. Cited in PubMed; PMID: 39811832. Publication Status: Published. Article URL: https://doi.org/10.1016/j.aopr.2024.11.002
 
