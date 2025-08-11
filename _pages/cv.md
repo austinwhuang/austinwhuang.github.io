@@ -31,7 +31,7 @@ Select Publications
 ======
 1. Embargoed. JAMA Network Open. Publication Status: In Press.
 
-1. Embargoed. JCO Global Oncology. Publication Status: In Press.
+1. Lee KL, Msadabwe-Chikuni SC, Lombe DC, Nogueras Gonzalez GM, Krishnamani PP, Carriere PP, <b>Huang A</b>, Sichizya L, Chiao EY, Krause KJ, Lin LL, Peterson SK. Use of Interactive, Patient-Centric Mobile Health Technology in Sub-Saharan Africa: A Scoping Review. August 2025:11:e2500157. JCO Global Oncology. Cited in PubMed; PMID: 40768687. Publication Status: Published. Article URL: https://doi.org/10.1200/GO-25-00157
 
 1. Huang KY, Patel PA, <b>Huang A</b>, Ho AC, Jonas JB, Sun X, Chen Y, Zheng Y, Tham YC, Weng CY, Wong TY. Decline in US-China science: Can ophthalmology remain collaborative? Advances in Ophthalmology Practice and Research. November 2024;5(1):13-15. Cited in PubMed; PMID: 39811832. Publication Status: Published. Article URL: https://doi.org/10.1016/j.aopr.2024.11.002
 
