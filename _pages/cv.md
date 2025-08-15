@@ -29,7 +29,7 @@ Education
 
 Select Publications
 ======
-1. Embargoed. JAMA Network Open. Publication Status: In Press.
+1. Yoder AK, Thomas RJ, <b>Huang A</b>, Mandalapu A, Roque DM, Bowles K, Albuquerque K, Son C, Ludwig MS, Levinson K, Coghill AE, Chiao EY, Lin LL. Cervical Cancer Outcomes in Women With HIV in the Age of Antiretroviral Therapy. JAMA Network Open. Cited in PubMed; PMID: 40815516. 2025 Aug 1;8(8):e2527389. Publication Status: Published. Article URL: https://doi.org/10.1001/jamanetworkopen.2025.27389
 
 1. Lee KL, Msadabwe-Chikuni SC, Lombe DC, Nogueras Gonzalez GM, Krishnamani PP, Carriere PP, <b>Huang A</b>, Sichizya L, Chiao EY, Krause KJ, Lin LL, Peterson SK. Use of Interactive, Patient-Centric Mobile Health Technology in Sub-Saharan Africa: A Scoping Review. August 2025:11:e2500157. JCO Global Oncology. Cited in PubMed; PMID: 40768687. Publication Status: Published. Article URL: https://doi.org/10.1200/GO-25-00157
 
