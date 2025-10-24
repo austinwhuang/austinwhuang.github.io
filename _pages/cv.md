@@ -7,12 +7,14 @@ redirect_from:
   - /cv
   - /resume
 ---
-Resident Physician, Internal Medicine
 
-Emory University School of Medicine
-
-Education
+Education and Training
 ======
+* Emory University School of Medicine
+  * Resident Physician
+  * Internal Medicine, Department of Medicine
+  * 2025 - 2028
+
 * Baylor College of Medicine
   * Doctor of Medicine (MD)
   * Alpha Omega Alpha
@@ -27,8 +29,24 @@ Education
   * Phi Beta Kappa
   * 2017 - 2020
 
+Awards and Honors
+======
+* Excellence in Public Health National Award
+  * United States Public Health Service
+  * 2025
+
+* Alpha Omega Alpha
+  * Baylor College of Medicine
+  * 2024
+ 
+* Phi Beta Kappa
+  * The University of Texas at Austin
+  * 2020
+
 Select Publications
 ======
+1. Yang K, Akova U, Shih A, Pasupuleti M, Katikaneni R, Chen MH, Castro C, Haley-Johnson Z,  <b>Huang A*</b>,. Redacted. Journal of Cancer Education. Publication Status: In Press.
+
 1. Yoder AK, Thomas RJ, <b>Huang A</b>, Mandalapu A, Roque DM, Bowles K, Albuquerque K, Son C, Ludwig MS, Levinson K, Coghill AE, Chiao EY, Lin LL. Cervical Cancer Outcomes in Women With HIV in the Age of Antiretroviral Therapy. JAMA Network Open. Cited in PubMed; PMID: 40815516. 2025 Aug 1;8(8):e2527389. Publication Status: Published. Article URL: https://doi.org/10.1001/jamanetworkopen.2025.27389
 
 1. Lee KL, Msadabwe-Chikuni SC, Lombe DC, Nogueras Gonzalez GM, Krishnamani PP, Carriere PP, <b>Huang A</b>, Sichizya L, Chiao EY, Krause KJ, Lin LL, Peterson SK. Use of Interactive, Patient-Centric Mobile Health Technology in Sub-Saharan Africa: A Scoping Review. August 2025:11:e2500157. JCO Global Oncology. Cited in PubMed; PMID: 40768687. Publication Status: Published. Article URL: https://doi.org/10.1200/GO-25-00157
