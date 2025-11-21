@@ -45,7 +45,7 @@ Awards and Honors
 
 Select Publications
 ======
-1. Yang K, Akova U, Shih A, Pasupuleti M, Katikaneni R, Chen MH, Castro C, Haley-Johnson Z,  <b>Huang A*</b>. Redacted. Journal of Cancer Education. Publication Status: In Press.
+1. Yang K, Akova U, Shih A, Pasupuleti M, Katikaneni R, Chen MH, Castro C, Haley-Johnson Z,  <b>Huang A*</b>. Evaluating Academic Productivity of Hematology/Oncology Fellows. Journal of Cancer Education. Cited in PubMed; PMID: 41269500. 2025 Nov 21. Publication Status: Published. Article URL: https://doi.org/10.1007/s13187-025-02769-x
 
 1. Yoder AK, Thomas RJ, <b>Huang A</b>, Mandalapu A, Roque DM, Bowles K, Albuquerque K, Son C, Ludwig MS, Levinson K, Coghill AE, Chiao EY, Lin LL. Cervical Cancer Outcomes in Women With HIV in the Age of Antiretroviral Therapy. JAMA Network Open. Cited in PubMed; PMID: 40815516. 2025 Aug 1;8(8):e2527389. Publication Status: Published. Article URL: https://doi.org/10.1001/jamanetworkopen.2025.27389
 
